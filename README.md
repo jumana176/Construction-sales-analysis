@@ -21,10 +21,10 @@ Cleaned and transformed construction sales, project, client, estimator and cost 
 
 
 ### 1. Sales Dashboard
-![Sales Dashboard](Sales Dashboard.png)
+![Sales Dashboard](./SalesDashboard.png)
 
 ### 2. Project-Cost Dashboard
-![Project Dashboard](Project-Cost Dashboard.png)
+![Project Dashboard](./Project-CostDashboard.png)
 
 ### 3. Client-Estimator Dashboard
-![Client Dashboard](Client-Estimator Dashboard.png)
+![Client Dashboard](./Client-EstimatorDashboard.png)
