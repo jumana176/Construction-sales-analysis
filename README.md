@@ -17,10 +17,6 @@ Cleaned and transformed construction sales, project, client, estimator and cost 
 👥 Client Analysis
 📈 Estimator Performance Analysis
 
-## Project Dashboards
-
-
-### 1. Sales Dashboard
 
 ## Project Dashboards
 
