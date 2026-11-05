@@ -29,13 +29,14 @@ A data analytics project completed as part of my Data GUC internship, focused on
 ### 3. Client-Estimator Dashboard
 ![Client Estimator Dashboard](./Client-Estimator%20Dashboard.png)
 
-Key Skills Demonstrated
+## Key Skills Demonstrated
 
 Data Cleaning | Data Analysis | KPI Analysis | Data Visualization | Dashboard Development | Business Intelligence
-Internship
+
+## Internship
 
 Data GUC — Data Analyst Intern
 
-Author
+## Author
 
 Jumana A S
